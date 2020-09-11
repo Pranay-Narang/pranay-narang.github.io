@@ -8,6 +8,7 @@ body {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
+    position: fixed;
     padding: 0px;
     margin: 0px;
     width: 100%;
